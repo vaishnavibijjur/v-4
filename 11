@@ -1,0 +1,31 @@
+BLDEA-CSE@DESKTOP-98DHO1U MINGW64 /d/v055 (master)
+$ git log -5
+commit e33cf5faf55e61b84e33eb5b5e7febae7f60e14b (HEAD -> master, origin/master)
+Author: varunhajeri55 <varunphajeri49366@gmail.com>
+Date:   Sat Nov 9 10:10:25 2024 +0530
+
+    this is commited
+
+commit c5b5a5a722595d0f6e33c3612601d576c39b6536 (featurebranch)
+Author: varunhajeri55 <varunphajeri49366@gmail.com>
+Date:   Sat Nov 9 10:07:47 2024 +0530
+
+    this is commit 5 in feature
+
+commit 9ee07bc2026f1dc572b0665cd91558fb4a7f7296
+Author: varunhajeri55 <varunphajeri49366@gmail.com>
+Date:   Sat Nov 9 10:07:22 2024 +0530
+
+    this is commit 4 in feature
+
+commit 9564e1d10c18094ce6dc1490e2bb860f36a712c9
+Author: varunhajeri55 <varunphajeri49366@gmail.com>
+Date:   Sat Nov 9 10:06:25 2024 +0530
+
+    this is commit 3 in feature
+
+commit a8e3143a3f49d083af84954b2aa1ff1baa4db439
+Author: varunhajeri55 <varunphajeri49366@gmail.com>
+Date:   Sat Nov 9 10:06:02 2024 +0530
+
+    this is commit 2 in feature
